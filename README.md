@@ -1,13 +1,11 @@
-Contributing to deeppomf Projects
+Contributing to DeepCreamPy
 =============================
 
-In order to contribute to some of deeppomf's projects on Github, contributors must sign our Contributor License Agreement (the "CLA").
+In order to contribute to DeepCreamPy on Github, contributors must sign our Contributor License Agreement (the "CLA").
 
 This project explains how to sign the CLA and keeps track of contributors that have signed the CLA.
 
 When you [sign our CLA](sign-cla.md), we are able to merge your contributions to our projects.
-
-Projects with open source licenses do not require signing the CLA to contribute.
 
 Please open an issue to this repo if you have any questions.
 
