@@ -1,4 +1,4 @@
-[2019-12-15]
+2019-12-15
 
 I hereby agree to the terms of the Individual Contributor License
 Agreement, version 1.0, with MD5 checksum
@@ -9,5 +9,5 @@ agreement and sign this declaration.
 
 Signed,
 
-[DaniruKun]
-https://github.com/[DaniruKun]
+DaniruKun
+https://github.com/DaniruKun
